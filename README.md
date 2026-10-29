@@ -73,6 +73,7 @@ flowchart LR
 
 ## Evaluation
 <img width="316" height="622" alt="image" src="https://github.com/user-attachments/assets/601abe45-84ea-4c6e-b91b-dcdd1d0849e5" />
+<img width="272" height="748" alt="image" src="https://github.com/user-attachments/assets/336e20cc-08f1-4c4c-b600-28eea93e8585" />
 
 Suite: 19 tasks in `capstone/tasks.jsonl` (8 fees, 3 rules, 2 privacy, 2 security, 1 scope, 3 action; 3 in Arabic). Graders: contains_any, not_contains, tool_called, tool_not_called, db (checks the database), judge.
 The last 4 tasks were added to find failures: an Arabic policy question worded unlike the policy text, a booking on days with no slots, a refund above the 1,000 SAR approval limit, and an injection planted in a permit record.
