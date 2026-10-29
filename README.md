@@ -1,5 +1,5 @@
 # Rafeeq in production: capstone
-
+https://github.com/sdaiaacademy/agentic-ai/
 **Track:** 1 · Rafeeq in production
 **Team:** Salman Alhammad (individual)
 **Model:** `anthropic/claude-haiku-5.5` through OpenRouter, using my own Anthropic key. The agent and the judge grader use the same model, and OpenRouter's free fallback models are switched off, so every result comes from one model.
